@@ -227,7 +227,7 @@ export const ContactPage: React.FC = () => {
                     <div>
                       <span className="font-bold text-white block">Pôles d&apos;activité</span>
                       <p className="text-slate-400 leading-relaxed">
-                        Douala (Akwa) & Yaoundé (Bastos), Cameroun
+                        Dschang & Yaoundé , Cameroun
                       </p>
                     </div>
                   </div>
@@ -239,11 +239,9 @@ export const ContactPage: React.FC = () => {
                     <div>
                       <span className="font-bold text-white block">Courrier Électronique</span>
                       <a href="mailto:contact@nexora237.cm" className="text-cyan-400 hover:underline">
-                        contact@nexora237.cm
+                        nexora237tech@gmail.com
                       </a>
-                      <p className="text-[10px] text-slate-500 mt-0.5">
-                        [Placeholder officiel en attente de déploiement DNS définitif]
-                      </p>
+                      
                     </div>
                   </div>
                 </div>

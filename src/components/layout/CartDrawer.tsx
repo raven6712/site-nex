@@ -161,7 +161,7 @@ export const CartDrawer: React.FC = () => {
                     </span>
                   </div>
                   <p className="text-[11px] text-slate-500 leading-tight">
-                    Livraison disponible sur Douala & Yaoundé (retrait gratuit lors des meetups).
+                    Livraison disponible sur Dschang & Yaoundé (retrait gratuit lors des meetups).
                   </p>
 
                   <form onSubmit={handleSimulateOrder} className="space-y-3 pt-2">
@@ -187,7 +187,7 @@ export const CartDrawer: React.FC = () => {
                         onChange={(e) => setFormData({ ...formData, city: e.target.value })}
                         className="text-xs px-3 py-2.5 rounded-lg bg-slate-800 border border-slate-700 text-white focus:outline-none focus:border-emerald-500"
                       >
-                        <option value="Douala">Douala</option>
+                        <option value="Dschang">Dschang</option>
                         <option value="Yaoundé">Yaoundé</option>
                         <option value="Bafoussam">Bafoussam</option>
                         <option value="Autre / En ligne">Autre ville</option>

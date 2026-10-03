@@ -50,8 +50,14 @@ export const Navbar: React.FC = () => {
                   <span className="text-lg font-black tracking-tight text-white group-hover:text-blue-400 transition-colors">
                     NEXORA
                   </span>
-                  <span className="text-xs font-mono font-extrabold px-1.5 py-0.2 rounded bg-emerald-500/10 text-blue-400 border border-emerald-500/20">
-                    237
+                  <span className="text-xs font-mono font-extrabold px-1.5 py-0.2 rounded bg-emerald-500/10 text-green-400 ">
+                    2
+                  </span>
+                  <span className="text-xs font-mono font-extrabold px-1.5 py-0.2 rounded bg-emerald-500/10 text-red-400 ">
+                    3
+                  </span>
+                  <span className="text-xs font-mono font-extrabold px-1.5 py-0.2 rounded bg-emerald-500/10 text-yellow-400 ">
+                    7
                   </span>
                 </div>
                 <span className="text-[12px] tracking-widest uppercase text-slate-400 font-medium">
